@@ -4,18 +4,20 @@
     "url": "https://www.jost.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.jost.com.ar.ico",
     "slug": "jost-com-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1929,
-    "timeDay": 2930,
-    "timeWeek": 2278,
-    "timeMonth": 1929,
-    "timeYear": 1929,
-    "dailyMinutesDown": {}
+    "time": 1957,
+    "timeDay": 2662,
+    "timeWeek": 2422,
+    "timeMonth": 1957,
+    "timeYear": 1957,
+    "dailyMinutesDown": {
+      "2024-11-16": 0
+    }
   },
   {
     "name": "Ping Oficina",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
+    "time": 166,
     "timeDay": 172,
     "timeWeek": 174,
-    "timeMonth": 165,
-    "timeYear": 165,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   }
 ]
