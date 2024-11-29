@@ -6,15 +6,15 @@
     "slug": "jost-com-ar",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "94.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
-    "time": 2014,
-    "timeDay": 1599,
-    "timeWeek": 1901,
-    "timeMonth": 2059,
-    "timeYear": 2014,
+    "time": 2005,
+    "timeDay": 1648,
+    "timeWeek": 1670,
+    "timeMonth": 2061,
+    "timeYear": 2005,
     "dailyMinutesDown": {
       "2024-11-27": 79
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 145,
-    "timeWeek": 156,
+    "timeDay": 155,
+    "timeWeek": 154,
     "timeMonth": 165,
     "timeYear": 163,
     "dailyMinutesDown": {}
